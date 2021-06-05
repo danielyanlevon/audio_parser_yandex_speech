@@ -1,0 +1,21 @@
+{
+    "name": "danielyanlevon/audio-parser-yandex-speech",
+    "description": "yandex speech parse audio files from folder",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "BSD-3",
+    "autoload": {
+        "psr-4": {
+            "Danielyanlevon\\AudioParserYandexSpeech\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Levon Danielyan",
+            "email": "danielyanlevon89@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
